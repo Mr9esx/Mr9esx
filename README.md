@@ -1,17 +1,12 @@
-<img src="./images/header.webp"  align="center"/>
-
 <p align="center">
+  <img src="./images/header.webp" alt="Header">
+  <br>
   <em>Shot in Shanghai, October 4, 2024.</em>
 </p>
 
-<h3 align="center">
-  <a href="#" data-fix-readme-link-style></a>
-  <i>
-    <samp>
-      > I’m a tinkerer, and my wish is to spend my life doing what I love.
-    </samp>
-  </i>
-</h3>
+<p align="center">
+  <i><samp>&gt; I’m a tinkerer, and my wish is to spend my life doing what I love.</samp></i>
+</p>
 
 <p align="center">
   <em>Born in Zhaoqing, China. Now based in Guangzhou.<br>
@@ -22,10 +17,6 @@
   <img src="./images/mimi.webp" width="22%" alt="Mimi">
   <img src="./images/doudou.webp" width="22%" alt="Doudou">
   <img src="./images/maimaibiga.webp" width="22%" alt="Maimai & Biga">
-</p>
-
-<p align="center">
-  Mimi & Doudou & Maimai & Biga
 </p>
 
 ---
