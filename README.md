@@ -50,11 +50,11 @@ Pixoma - /pɪkˈsoʊmə/
 <tr>
 <td valign="top" width="50%">
 
-***KuRa - 「倉」，是一套 3D 打印组合式收纳系统，支持模块化组合与可视化布局，轻松规划收纳空间。***
+***一套 3D 打印组合式收纳系统，支持模块化组合与可视化布局，轻松规划收纳空间。***
 
 Website: <a href="https://kura.miaoplus.com/" target="_blank" rel="noopener noreferrer">https://kura.miaoplus.com</a>
 
-> ***KuRa‑ "Kura" (倉), is a modular 3D‑printed storage system. It supports modular assembly and visual layout, letting you easily plan your storage space.***
+> ***Is a modular 3D‑printed storage system. It supports modular assembly and visual layout, letting you easily plan your storage space.***
 
 </td>
 <td valign="top" width="50%">
