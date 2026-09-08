@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./images/header.webp" alt="Header">
   <br>
-  <em>Shot in Shanghai, October 4, 2024.</em>
+  <small><em>Shot in Shanghai, October 4, 2024.</em></small>
 </p>
 
 <h3 align="center">
