@@ -4,9 +4,11 @@
   <em>Shot in Shanghai, October 4, 2024.</em>
 </p>
 
-<p align="center">
-  <i><samp>&gt; I’m a tinkerer, and my wish is to spend my life doing what I love.</samp></i>
-</p>
+<h3 align="center">
+  <i>
+    <samp>&gt; I’m a tinkerer, and my wish is to spend my life doing what I love.</samp>
+  </i>
+</h3>
 
 <p align="center">
   <em>Born in Zhaoqing, China. Now based in Guangzhou.<br>
