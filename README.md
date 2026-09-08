@@ -13,6 +13,21 @@
   </i>
 </h3>
 
+<p align="center">
+  <em>Born in Zhaoqing, China. Now based in Guangzhou.<br>
+  A kind father, with a kind mother by my side, and four rascals to show for it.</em>
+</p>
+
+<p align="center">
+  <img src="./images/mimi.webp" width="22%" alt="Mimi">
+  <img src="./images/doudou.webp" width="22%" alt="Doudou">
+  <img src="./images/maimaibiga.webp" width="22%" alt="Maimai & Biga">
+</p>
+
+<p align="center">
+  Mimi & Doudou & Maimai & Biga
+</p>
+
 ---
 
 ## Here are some projects I’m working on:
@@ -80,24 +95,24 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
 </td>
 </tr>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
-![unnamed-1](./images/app-1.png)
-
-</td>
-<td valign="top" width="25%">
-
-![unnamed-2](./images/app-2.png)
+<img src="./images/app-1.png" width="80%">
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
-![unnamed-3](./images/app-3.png)
+<img src="./images/app-2.png" width="80%">
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
-![unnamed-4](./images/app-4.png)
+<img src="./images/app-3.png" width="80%">
+
+</td>
+<td valign="top" width="25%" align="center">
+
+<img src="./images/app-4.png" width="80%">
 
 </td>
 </tr>
@@ -158,6 +173,9 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
 <tr>
   <td>AIGC</td>
   <td>
+    <img src="https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="Deepseek">
+    <img src="https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff" alt="Qwen">
+    <img src="https://img.shields.io/badge/Llama-0668E1?logo=meta&logoColor=fff" alt="Llama">
     <img src="https://img.shields.io/badge/ComfyUI-000" alt="ComfyUI">
     <img src="https://img.shields.io/badge/Flux2_klein_9b-EA580C" alt="Flux2 klein 9b">
     <img src="https://img.shields.io/badge/MiniMax_H3-E73562?logo=minimax&logoColor=fff" alt="MiniMax H3">
@@ -198,10 +216,15 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
   </td>
 </tr>
 <tr>
-  <td>Toolchains</td>
+  <td>Vibe Code</td>
   <td>
     <img src="https://custom-icon-badges.demolab.com/badge/Codex-000?logo=openai&logoColor=white" alt="Codex">
     <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor" alt="Cursor">
+  </td>
+</tr>
+<tr>
+  <td>Toolchains</td>
+  <td>
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git">
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown">
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
@@ -213,6 +236,13 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff" alt="SketchUp">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribbble">
+  </td>
+</tr>
+<tr>
+  <td>3D Print</td>
+  <td>
+    <img src="https://img.shields.io/badge/Bambu_Lab-00AE42?logo=bambulab&logoColor=fff" alt="Bambu Lab">
+    <img src="https://img.shields.io/badge/Shapr3D-000" alt="Shapr3D">
   </td>
 </tr>
 <tr>
