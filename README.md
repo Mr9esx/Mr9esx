@@ -69,15 +69,15 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
 </tr>
 <tr>
 <td valign="top" width="50%">
-<img src="./images/kura.png" />
+<img src="./images/kura.webp" />
 </td>
 <td valign="top" width="50%">
-<img src="./images/pixoma.png" />
+<img src="./images/pixoma.webp" />
 </td>
 </tr>
 </table>
 
-### Untitled
+### Untitled / In Progress
 
 <table>
 <tr>
@@ -97,22 +97,22 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
 <tr>
 <td valign="top" width="25%" align="center">
 
-<img src="./images/app-1.png" width="70%">
+<img src="./images/app-1.webp" width="70%">
 
 </td>
 <td valign="top" width="25%" align="center">
 
-<img src="./images/app-2.png" width="70%">
+<img src="./images/app-2.webp" width="70%">
 
 </td>
 <td valign="top" width="25%" align="center">
 
-<img src="./images/app-3.png" width="70%">
+<img src="./images/app-3.webp" width="70%">
 
 </td>
 <td valign="top" width="25%" align="center">
 
-<img src="./images/app-4.png" width="70%">
+<img src="./images/app-4.webp" width="70%">
 
 </td>
 </tr>
@@ -264,7 +264,7 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
 </table>
 
 <p align="center">
-  <img src="./images/pixoma-loading.gif" width="48px"/>
+  <img src="./images/pixoma-loading.webp" width="48px"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Mr9esx" alt="Profile views">
 </p>
