@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="./images/mimi.webp" width="22%" alt="Mimi">
-  <img src="./images/doudou.webp" width="22%" alt="Doudou">
-  <img src="./images/maimaibiga.webp" width="22%" alt="Maimai & Biga">
+  <img src="./images/mimi.webp" width="15%" alt="Mimi">
+  <img src="./images/doudou.webp" width="15%" alt="Doudou">
+  <img src="./images/maimaibiga.webp" width="15%" alt="Maimai & Biga">
 </p>
 
 ---
