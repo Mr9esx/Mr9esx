@@ -97,22 +97,22 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
 <tr>
 <td valign="top" width="25%" align="center">
 
-<img src="./images/app-1.png" width="80%">
+<img src="./images/app-1.png" width="70%">
 
 </td>
 <td valign="top" width="25%" align="center">
 
-<img src="./images/app-2.png" width="80%">
+<img src="./images/app-2.png" width="70%">
 
 </td>
 <td valign="top" width="25%" align="center">
 
-<img src="./images/app-3.png" width="80%">
+<img src="./images/app-3.png" width="70%">
 
 </td>
 <td valign="top" width="25%" align="center">
 
-<img src="./images/app-4.png" width="80%">
+<img src="./images/app-4.png" width="70%">
 
 </td>
 </tr>
