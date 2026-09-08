@@ -264,5 +264,7 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
 </table>
 
 <p align="center">
+  <img src="./images/pixoma-loading.gif" width="48px"/>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Mr9esx" alt="Profile views">
 </p>
