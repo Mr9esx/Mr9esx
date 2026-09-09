@@ -207,7 +207,7 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
     <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=fff" alt="Kafka">
     <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" alt="Redis">
     <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff" alt="Elasticsearch">
-    <img src="https://img.shields.io/badge/etcd-419EDA?logo=etcd&logoColor=fff" alt="etcd">
+    <img src="https://img.shields.io/badge/etcd-419EDA?logo=etcd&logoColor=fff" alt="Etcd">
   </td>
 </tr>
 <tr>
