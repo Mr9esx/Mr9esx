@@ -21,7 +21,11 @@
   <img src="./images/maimaibiga.webp" width="15%" alt="Maimai & Biga">
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ## Here are some projects I’m working on:
 
@@ -111,9 +115,7 @@ Product Page: <a href="https://pixoma.miaoplus.com/" target="_blank" rel="noopen
 </tr>
 </table>  
 
-
-
-
+<br>
 
 ## Here are some things I tinker with:
 
